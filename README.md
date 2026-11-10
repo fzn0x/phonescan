@@ -23,7 +23,7 @@ Scanners without the required key or country are skipped, and the rest still run
 Requires Python 3.8 or newer.
 
 ```bash
-git clone <your-repo-url> phonescan    # or just download phonescan.py and requirements.txt
+git clone https://github.com/fzn0x/phonescan
 cd phonescan
 python3 -m venv .venv
 source .venv/bin/activate
