@@ -236,3 +236,11 @@ Only scan numbers you own or have permission to investigate. Results come from p
 ## License
 
 MIT. See LICENSE.
+
+## Contributing
+
+See CONTRIBUTING.md.
+
+## Security
+
+See SECURITY.md for responsible disclosure guidance.
